@@ -674,6 +674,10 @@ video {
   font-weight: 700;
 }
 
+.blue{
+  color:blue;
+}
+
 @media (min-width: 768px) {
   .md\:w-2\/4 {
     width: 50%;
@@ -693,4 +697,3 @@ video {
     flex-direction: row;
   }
 }
-
