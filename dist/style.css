@@ -631,6 +631,10 @@ video {
   height: 25%;
 }
 
+.h-64 {
+  height: 16rem;
+}
+
 .w-2\/4 {
   width: 50%;
 }
@@ -641,6 +645,18 @@ video {
 
 .w-auto {
   width: auto;
+}
+
+.w-36 {
+  width: 9rem;
+}
+
+.w-40 {
+  width: 10rem;
+}
+
+.w-48 {
+  width: 12rem;
 }
 
 .max-w-full {
@@ -701,6 +717,15 @@ video {
 
 .self-start {
   align-self: flex-start;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-slate-400 {
+  --tw-border-opacity: 1;
+  border-color: rgb(148 163 184 / var(--tw-border-opacity));
 }
 
 .text-center {
